@@ -1,0 +1,1 @@
+const baseUrl = `https://cors-anywhere.herokuapp.com/https://sei-eternity.herokuapp.com/students.json`
