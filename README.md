@@ -6,7 +6,7 @@ We're gonna practice more of accessing API's with Axios, using our own class web
 - Use this link to access all the students in our website
 
 ```js 
-const baseUrl = `https://cors-anywhere.herokuapp.com/https://sei-eternity.herokuapp.com/students.json`
+const baseUrl = `https://sei-relativity-ruh.herokuapp.com/developers`
 ```
 
 - display each name as a list item within the #main div.
